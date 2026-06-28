@@ -169,10 +169,10 @@ in your browser.
 
 **Amrita Singh**
 
-📧 Email: your-email@example.com
+📧 Email: amrita98shalu@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/amrita-singh-5ba95b294?utm_source=share_via&utm_content=profile&utm_medium=member_android
+https://www.linkedin.com/in/amrita-singh-5ba95b294/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHpwKtuQqQc6XuwFWxMaEcw%3D%3D
 
 
 ---
