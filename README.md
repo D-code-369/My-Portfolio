@@ -8,8 +8,7 @@ A modern, responsive, and elegant personal portfolio website built using **HTML,
 
 🔗 Add your deployed portfolio link here
 
-Example:
-https://your-portfolio.netlify.app/
+https://my-portfolio-amrita-singh.vercel.app/
 
 ---
 
